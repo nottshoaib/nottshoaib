@@ -1,5 +1,5 @@
 - 👋 Hey, this side Shoaib here.
-- 👀 I’m interested in video editing, web development and also intrested to teach maths and playing online games(i,e BGMI).
+- 👀 I’m interested in video editing, web development and also intrested in to teach maths and playing online games(i,e BGMI).
 - 🌱 I’m currently learning web development and Data structure & Algorithms.
 
 - 📫 You can follow me on instgram- @notshoaib
